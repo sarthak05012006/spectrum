@@ -6,6 +6,7 @@
  * and a running <a href="https://github.com/processing/p5.js/wiki/Local-server">local server</a>.</span></em></p>
  */
 let mic, fft;
+//my name is sarthak 
 
 function setup() {
   createCanvas(710, 400);
